@@ -23,11 +23,13 @@ Agora com o server online vá para a pasta do 'frontend', entre na pasta 'estudo
 Só é possivel acessar o APP atráves de uma rota oculta 'admin' no site. Para acessa-la basta ir no endereço '/login' e logar com 
 
 ```bash
-Email: case2@case2 
+Email: admin@case2.com 
 Senha: 12345678
 
 ```
 
+## 🛠 FERRAMENTAS 
+HTML, CSS, Javascript, Node, Express, SQLite React e Bootstrap.
 
 
 ## MEMBROS DO SQUAD 
